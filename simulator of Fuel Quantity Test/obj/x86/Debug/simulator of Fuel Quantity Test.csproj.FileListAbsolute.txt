@@ -1,0 +1,16 @@
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\simulator_of_Fuel_Quantity_Test.Form1.resources
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\simulator_of_Fuel_Quantity_Test.Properties.Resources.resources
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\simulator_of_Fuel_Quantity_Test.rack.resources
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\simulator_of_Fuel_Quantity_Test.result.resources
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\simulator_of_Fuel_Quantity_Test.test.resources
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\bin\Debug\simulator of Fuel Quantity Test.exe.config
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\bin\Debug\simulator of Fuel Quantity Test.exe
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\bin\Debug\simulator of Fuel Quantity Test.pdb
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\bin\Debug\AGauge.dll
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\bin\Debug\CSkin.dll
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\bin\Debug\CSkin.xml
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\simulator of Fuel Quantity Test.exe
+C:\Users\rainbow\documents\visual studio 2010\Projects\simulator of Fuel Quantity Test\simulator of Fuel Quantity Test\obj\x86\Debug\simulator of Fuel Quantity Test.pdb
